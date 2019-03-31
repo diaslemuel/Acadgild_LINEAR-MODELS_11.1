@@ -1,0 +1,10 @@
+Problem Statement
+1. Use the link given below and locate the bank marketing dataset.
+https://archive.ics.uci.edu/ml/machine-learning-databases/00222/
+Perform the below operations:
+a. Create a visual for representing missing values in the dataset.
+b. Show a distribution of clients based on a job.
+c. Check whether is there any relation between Job and Marital
+Status?
+d. Check whether is there any association between Job and
+Education?
